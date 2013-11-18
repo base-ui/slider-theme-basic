@@ -1,0 +1,12 @@
+.component.slider {
+  height: 10px;
+  width: 100%;
+  background-color: #eee;
+}
+
+.component.slider >.handle {
+  width: 20px;
+  height: 20px;
+  background-color: #aaa;
+  top: -5px;
+}

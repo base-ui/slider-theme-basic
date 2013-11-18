@@ -1,0 +1,15 @@
+{
+  "name": "slider-theme-basic",
+  "repo": "base-ui/slider-theme-basic",
+  "description": "Basic style for slider",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "base-ui/slider": "*"
+  },
+  "license": "MIT",
+  "styles": [
+    "css/slider-theme-basic.css"
+  ]
+}
